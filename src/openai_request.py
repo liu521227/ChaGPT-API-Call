@@ -30,7 +30,7 @@ class OpenAI_Request(object):
 
 
 if __name__ == '__main__':
-    keys = "OpenAI API keys"
+    keys = "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"
     model_name = "gpt-3.5-turbo"
     request_address = "https://api.openai.com/v1/chat/completions"
     requestor = OpenAI_Request(keys,model_name,request_address)

@@ -1,7 +1,7 @@
 config_dict = dict(
 
     Acess_config = dict(
-        authorization = "Your OpenAI API keys",
+        authorization = "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",
     ),
 
     Model_config = dict(
